@@ -1,5 +1,6 @@
 {
   "expo": {
+    "plugins": ["@react-native-voice/voice"],
     "name": "CustomAIChat",
     "slug": "CustomAIChat",
     "version": "1.0.0",
